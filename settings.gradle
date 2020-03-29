@@ -1,0 +1,6 @@
+include ':app',
+        ':plugin01',
+        ':constants'
+rootProject.name='covid19'
+include ':dynamic:dynamic-fragment'
+include ':dynamic:dynamic-runtime'

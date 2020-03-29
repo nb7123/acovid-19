@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="covid19/app" />
+      <module fileurl="file://$PROJECT_DIR$/constants/constants.iml" filepath="$PROJECT_DIR$/constants/constants.iml" group="covid19/constants" />
+      <module fileurl="file://$PROJECT_DIR$/covid19.iml" filepath="$PROJECT_DIR$/covid19.iml" group="covid19" />
+      <module fileurl="file://$PROJECT_DIR$/dynamic/dynamic.iml" filepath="$PROJECT_DIR$/dynamic/dynamic.iml" group="covid19/dynamic" />
+      <module fileurl="file://$PROJECT_DIR$/dynamic/dynamic-fragment/dynamic-fragment.iml" filepath="$PROJECT_DIR$/dynamic/dynamic-fragment/dynamic-fragment.iml" group="covid19/dynamic/dynamic-fragment" />
+      <module fileurl="file://$PROJECT_DIR$/dynamic/dynamic-runtime/dynamic-runtime.iml" filepath="$PROJECT_DIR$/dynamic/dynamic-runtime/dynamic-runtime.iml" group="covid19/dynamic/dynamic-runtime" />
+      <module fileurl="file://$PROJECT_DIR$/plugin01/plugin01.iml" filepath="$PROJECT_DIR$/plugin01/plugin01.iml" group="covid19/plugin01" />
+    </modules>
+  </component>
+</project>
